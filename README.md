@@ -59,7 +59,5 @@ The analysis includes:
 3. Open `Diwali_Sales_Analysis.ipynb` and run the cells sequentially.
 
 🤝 Acknowledgements
-
-- **Cognifyz Technologies** for project guidance.
 - Publicly available **Diwali Sales Dataset** used for analysis.
 
